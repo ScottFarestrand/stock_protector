@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "933390861560",
+    "project_id": "stockprotector-9cbe2",
+    "storage_bucket": "stockprotector-9cbe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933390861560:android:f76445bd2f5300fb62670d",
+        "android_client_info": {
+          "package_name": "com.farestrand.stock_protector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933390861560-1bigojc62ql2ph7douef5kfr0126aita.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANGFEEFD9bWo3gny8XGoptdxC-YDC3YEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933390861560-1bigojc62ql2ph7douef5kfr0126aita.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933390861560-mv8vltg5gnhmk5tujgvjk7g8rte43pm5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.farestrand.stock-protector"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
